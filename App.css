@@ -1,0 +1,53 @@
+.maindiv{
+    background-color:gray;
+    height: 20vh;
+    width: 100vw;
+    margin-top: -5px;
+}
+ul {
+  list-style-type: none;
+  background-color: bisque;
+  padding: auto;
+  height:38px;
+  text-decoration: none;
+}
+ul li{
+  display: inline-block;
+  margin-left: 30px;
+  padding: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color: white;
+  box-sizing: border-box;
+}
+li :hover{
+  background-color:white;
+}
+.formdiv{
+    padding:100px;
+    margin-left: 200px;
+    height:30vh;
+    width: 10vw;
+    background-color: beige;
+    
+}
+.ipt{
+  margin-top: 20px;
+  height: 4vh ;
+  
+}
+.btn{
+    position:absolute;
+    margin-top: 20px;
+    margin-left: 55px;
+    background-color: blue;
+    border-radius: 2px;
+    color: white;
+    height:30px;
+    
+}
+
+.select{
+    width: 60px;
+    margin-top: 20px;
+}
